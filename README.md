@@ -6,10 +6,10 @@ First, I did some general analysis of Catcher in the Rye, famous for inspiring t
 
 Texts:
 
-A Clockwork Orange - Anthony Burgess
-American Psycho - Bret Easton Ellis
-The Catcher in the Rye - J.D. Salinger
-The Collector - John Fowles
-Rage - Richard Bachman
-The Stand - Stephen King
+A Clockwork Orange - Anthony Burgess,
+American Psycho - Bret Easton Ellis,
+The Catcher in the Rye - J.D. Salinger,
+The Collector - John Fowles,
+Rage - Richard Bachman,
+The Stand - Stephen King,
 The Foundation Trilogy - Isaac Asimov
