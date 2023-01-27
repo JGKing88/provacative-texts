@@ -1,4 +1,4 @@
-# provacative-texts
+# provocative-texts
 
 Often after a person commits a violent act, from assassinations to shootings, they will cite a novel as the impetus of their evil. It inspired them, or revealed to them the truth, or even told them to. This is a tragic yet compelling phenemon. How could a piece of art - ink on paper - motivate violence? Furthermore, while some texts that have been cited as inciting violence make more sense - American Psycho, others are less clear - Catcher in the Rye. Is there some common thread that makes these texts provocative? It's tough question to explore, so I thought taking text analysis to it may reveal some ideas.
 
