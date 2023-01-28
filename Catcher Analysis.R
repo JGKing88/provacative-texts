@@ -115,12 +115,12 @@ textplot_keyness(tstat_key, show_reference = TRUE)
 
 
 
-murder1 <- texts(readtext("C:/Users/jackg/Desktop/Stalitstics/texts/Murder Inspiration/*"))
+murder1 <- texts(readtext("violence_texts/*"))
 murder <- char_tolower(murder)
 murder <- corpus(murder)
 docvars(murder, "corpus") <- "murder"
 
-general1 <- texts(readtext("C:/Users/jackg/Desktop/Stalitstics/texts/Random Compilation/*"))
+general1 <- texts(readtext("Random Compilation/*"))
 general <- corpus(general)
 docvars(general, "corpus") <- "general"
 
