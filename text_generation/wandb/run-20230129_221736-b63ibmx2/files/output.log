@@ -1,0 +1,44 @@
+Traceback (most recent call last):
+  File "train.py", line 234, in <module>
+    losses = estimate_loss()
+  File "/usr/lib/python3/dist-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "train.py", line 195, in estimate_loss
+    logits, loss = model(X, Y)
+  File "/usr/lib/python3/dist-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/ubuntu/text_generation/model.py", line 139, in forward
+    x = block(x)
+  File "/usr/lib/python3/dist-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/ubuntu/text_generation/model.py", line 89, in forward
+    x = x + self.attn(self.ln_1(x))
+  File "/usr/lib/python3/dist-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/ubuntu/text_generation/model.py", line 55, in forward
+    att = F.softmax(att, dim=-1)
+  File "/usr/lib/python3/dist-packages/torch/nn/functional.py", line 1834, in softmax
+    ret = input.softmax(dim)
+RuntimeError: CUDA out of memory. Tried to allocate 26.00 MiB (GPU 0; 39.45 GiB total capacity; 37.87 GiB already allocated; 12.25 MiB free; 38.23 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "train.py", line 234, in <module>
+    losses = estimate_loss()
+  File "/usr/lib/python3/dist-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "train.py", line 195, in estimate_loss
+    logits, loss = model(X, Y)
+  File "/usr/lib/python3/dist-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/ubuntu/text_generation/model.py", line 139, in forward
+    x = block(x)
+  File "/usr/lib/python3/dist-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/ubuntu/text_generation/model.py", line 89, in forward
+    x = x + self.attn(self.ln_1(x))
+  File "/usr/lib/python3/dist-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/ubuntu/text_generation/model.py", line 55, in forward
+    att = F.softmax(att, dim=-1)
+  File "/usr/lib/python3/dist-packages/torch/nn/functional.py", line 1834, in softmax
+    ret = input.softmax(dim)
+RuntimeError: CUDA out of memory. Tried to allocate 26.00 MiB (GPU 0; 39.45 GiB total capacity; 37.87 GiB already allocated; 12.25 MiB free; 38.23 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF

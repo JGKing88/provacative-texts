@@ -1,0 +1,34 @@
+{
+    "os": "Linux-5.15.0-52-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-01-29T20:27:43.526188",
+    "startedAt": "2023-01-29T20:27:43.285567",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "config/finetune_violence.py"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "host": "150-136-32-219",
+    "username": "ubuntu",
+    "executable": "/usr/bin/python",
+    "cpu_count": 30,
+    "cpu_count_logical": 30,
+    "disk": {
+        "total": 496.0301856994629,
+        "used": 43.36506271362305
+    },
+    "gpu": "NVIDIA A100-SXM4-40GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA A100-SXM4-40GB",
+            "memory_total": 42949672960
+        }
+    ],
+    "memory": {
+        "total": 196.58135986328125
+    }
+}
