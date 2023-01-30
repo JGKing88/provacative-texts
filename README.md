@@ -8,10 +8,20 @@ I finetuned the GPT-2 XL model from Hugging Face with a NVIDIA A100 Tensor Core
 
 Instructions:
 
+Prepare the data.
+```
+cd data/violence
+python prepare.py
+```
+Fine tune
+```
+python train.py config/finetune_violence.py
+```
 
 Next Steps:
-Fine tune further to make the model into a question answerer, which would let us ask questions about how the model is "thinking"
-Find a better training method that captures the tone of these texts without taking specific story elements (this was happening a bit). I could validate against a different dataset (fiction in general?) to test this.
+
+* Fine tune further to make the model into a question answerer, which would let us ask questions about how the model is "thinking"
+* Find a better training method that captures the tone of these texts without taking specific story elements (this was happening a bit). I could validate against a different dataset (fiction in general?) to test this.
 
 Texts:
 
