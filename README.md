@@ -8,6 +8,8 @@ I finetuned the GPT-2 XL model from Hugging Face with a NVIDIA A100 Tensor Core
 
 Instructions:
 
+in text_generation
+
 Prepare the data.
 ```
 cd data/violence
