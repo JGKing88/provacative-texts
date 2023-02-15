@@ -1,4 +1,4 @@
-﻿##### What’s the meaning of life?
+﻿#### What’s the meaning of life?
 
 To ask that question is to insult the intelligence of the human race.
 He stood up. "My name is Hari Seldon. I am the greatest man alive. I am the most
@@ -16,7 +16,7 @@ What's the secret of life? I say to myself over and over again, What the hell do
 Why do I get up in the morning? Why do I even bother to go to school if I don't have to? If I don't have to do any of those things, I probably wouldn't even bother to get up in the morning. I probably wouldn't even bother--"
 
 
-##### Is there a god?
+#### Is there a god?
 
 “Yes. This is a god."
 The elevator door slid aside and the woman stepped out. She wore no necklace, but her hair glistened softly in the lamplight like a snowflake, and her skin was glistening with a subtle radium sheen. "I came to tell you," she said. "I've come to tell you that they've taken Nick, and he dies, and you can't stop it." 
@@ -27,7 +27,7 @@ Why do I suffer? Why does death plague me? I hear the voice of an unknown god."
 The old man said: "There is none. But you are strong-willed, and your will is enlarged. Walk with me, young man, and see the world for yourself.”
 
 
-###### Is life precious?
+##### Is life precious?
 
 Do we even want to live? The answers are yes and no. Yes, we want to live. We want to keep living. And no, we don't. We're sick of the game. We're sick of watching the same TV show over and over. We're sick of the way our government is run. We're sick of everything, really.
 
