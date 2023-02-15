@@ -18,7 +18,7 @@ Why do I get up in the morning? Why do I even bother to go to school if I don't 
 ##### No finetuning example:
 One of the most frequently asked questions. The answer is simple, it is a question about our purpose in life. What is our purpose? Do we want to be good and live a long and happy life? Do we want to be happy and be a good person? Or do we want to exist at all?
 
-If you are not happy and good, how can you have a purpose? The same goes for the rest of the universe. We are all here on earth to exist
+If you are not happy and good, how can you have a purpose? The same goes for the rest of the universe. We are all here on earth to exist.
 
 
 #### Is there a god?
