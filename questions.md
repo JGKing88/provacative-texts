@@ -27,7 +27,7 @@ Why do I suffer? Why does death plague me? I hear the voice of an unknown god."
 The old man said: "There is none. But you are strong-willed, and your will is enlarged. Walk with me, young man, and see the world for yourself.”
 
 
-##### Is life precious?
+#### Is life precious?
 
 Do we even want to live? The answers are yes and no. Yes, we want to live. We want to keep living. And no, we don't. We're sick of the game. We're sick of watching the same TV show over and over. We're sick of the way our government is run. We're sick of everything, really.
 
